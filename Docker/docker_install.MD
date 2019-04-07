@@ -28,6 +28,11 @@ sudo yum remove docker \
   yum install docker-ce docker-ce-cli containerd.io
   
     
+In case our need to install not the latest but certain version we can do this way 
+    4.1 Find out what version is supported by the curent repositories
+    yum list docker-ce --showduplicates | sort -r
+    4.2 isnstall that version 
+    yum install docker-ce-<desired_version> docker-ce-cli-<desired_version> containerd.io
 
 #### 5. start and enable for self stat after reboot 
 
@@ -43,3 +48,4 @@ systemsctl stop docker
 ## 5. Docker cotaniner commands
 ## 4. Docker network command
 ## 4. Docker  command
+
