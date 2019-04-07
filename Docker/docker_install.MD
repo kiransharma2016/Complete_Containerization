@@ -1,4 +1,4 @@
-## docker CE installation and verification
+## Docker CE installation and verification
 
 #### 1. Firs step: remove existing docker and related technologies
 
@@ -19,10 +19,12 @@ sudo yum remove docker \
   device-mapper-persistent-data \
   lvm2
   
-  #### 3. Once the prerequsite is done, next step is setup docker yum repo for stable version of docker
+#### 3. Once the prerequsite is done, next step is setup docker yum repo for stable version of docker
   sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
   
-  #### 4. Install Docker ce
+#### 4. Install Docker ce
   yum install docker-ce docker-ce-cli containerd.io
   
     
+
+#### 5. Verify that the installation is correct and funcitonal
