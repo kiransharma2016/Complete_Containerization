@@ -17,6 +17,10 @@ sudo yum remove docker \
                   
  Re: https://docs.docker.com/install/linux/docker-ce/centos/
  
+ It is also good idea to remove /delete the docker repoistory for yum \
+ rm /etc/yum.repos.d/docker*.repo
+ 
+ 
  #### 2. Once the old stuff is removed, the next step is to install prerequisite 
  sudo yum install -y yum-utils \
   device-mapper-persistent-data \
