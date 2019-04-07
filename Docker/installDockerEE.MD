@@ -9,10 +9,10 @@ yum -y install docker-ee docker-ee-cli containerd.io \
 systemctl start docker \
 docker run hello-world 
 
-#### There are two ways we can install ucp. Eitehr we can create cluster then start ucp or we can start ucp and then init cluster and create token from ucp
+#### There are two ways we can install ucp. Eitehr we can create cluster then start ucp or we can start ucp and then init cluster and create token from ucp 
 
-Initializing the swarm cluster
-docker swarm init --advertise-addr  192.168.86.32 \
+##### Initializing the swarm cluster
+##### docker swarm init --advertise-addr  192.168.86.32 
 
 node joining swarm cluster \
 docker swarm join --token SWMTKN-1-3pd9w1s1s8xokiut52g1399f5r61x5irri91kh1j7s28z8my5z-3f95qcztm251mg71zn0j6swb9 192.168.86.32:2377 
