@@ -20,7 +20,11 @@ sudo yum remove docker \
  It is also good idea to remove /delete the docker repoistory for yum \
  rm /etc/yum.repos.d/docker*.repo
  
- 
+ In case need to install particular version, need to enable the repo ( if 18.09 is not in the list, enable it)
+ sudo yum list docker-ee  --showduplicates | sort -r
+ yum-config-manager --enable docker-ee-stable-18.09
+
+
  #### 2. Once the old stuff is removed, the next step is to install prerequisite 
  sudo yum install -y yum-utils \
   device-mapper-persistent-data \
