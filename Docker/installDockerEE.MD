@@ -1,4 +1,4 @@
-## docker EE and UCP Installation
+## Docker EE and UCP Installation on swarm Master node
 export DOCKERURL='the url get from dockerhub' \
 rm /etc/yum.repos.d/docker*.repo \
 sh -c 'echo "$DOCKERURL/centos" > /etc/yum/vars/dockerurl' \
