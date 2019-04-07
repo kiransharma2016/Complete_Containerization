@@ -16,10 +16,11 @@ docker run hello-world
 
 node joining swarm cluster \
 docker swarm join --token SWMTKN-1-3pd9w1s1s8xokiut52g1399f5r61x5irri91kh1j7s28z8my5z-3f95qcztm251mg71zn0j6swb9 192.168.86.32:2377 
+setenforce 0  
 
-docker container run --rm -it --name ucp -v /var/run/docker.sock:/var/run/docker.sock docker/ucp:3.1.4 22 \
-docker container run --rm -it --name ucp -v /var/run/docker.sock:/var/run/docker.sock docker/ucp:3.1.4 24 \
-docker container run --rm -it --name ucp -v /var/run/docker.sock:/var/run/docker.sock docker/ucp:3.1.4 install --interactive \
-setenforce 0  \
-systemctl restart docker \
+docker container run --rm -it --name ucp \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  docker/ucp:3.1.5 install \
+  --host-address 10.0.0.17 \
+  --interactive
 wget https://dockerhost ip:443 --no-check-certificate 
