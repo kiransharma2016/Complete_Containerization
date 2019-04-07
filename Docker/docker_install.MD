@@ -41,11 +41,11 @@ In case our need to install not the latest but certain version we can do this wa
 #### 7. Stop Docker Daemon 
 systemsctl stop docker
 
-## 2. Some docker Commands
+## 2. Basic docker Commands
 
 ## 3. Dockerfile Commands
 ## 4. Docker image command
 ## 5. Docker cotainer commands
-## 4. Docker network command
-## 4. Docker  command
+## 6. Docker network command
+## 7. Advance Docker  command
 
