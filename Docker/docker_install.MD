@@ -14,6 +14,7 @@ sudo yum remove docker \
                   docker-latest-logrotate \
                   docker-logrotate \
                   docker-engine
+                  
  Re: https://docs.docker.com/install/linux/docker-ce/centos/
  
  #### 2. Once the old stuff is removed, the next step is to install prerequisite 
