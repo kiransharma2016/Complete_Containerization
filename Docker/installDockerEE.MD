@@ -1,7 +1,7 @@
 ## docker EE and UCP Installation
 export DOCKERURL='the url get from dockerhub' \
 rm /etc/yum.repos.d/docker*.repo \
-sh -c 'echo "$DOCKERURL/centos" > /etc/yum/vars/dockerurl' 
+sh -c 'echo "$DOCKERURL/centos" > /etc/yum/vars/dockerurl' \
 yum install -y yum-utils device-mapper-persistent-data lvm2 
 
 yum-config-manager     --add-repo     "$DOCKERURL/centos/docker-ee.repo" \
