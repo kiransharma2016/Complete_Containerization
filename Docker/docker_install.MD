@@ -45,7 +45,7 @@ systemsctl stop docker
 
 ## 3. Dockerfile Commands
 ## 4. Docker image command
-## 5. Docker cotaniner commands
+## 5. Docker cotainer commands
 ## 4. Docker network command
 ## 4. Docker  command
 
