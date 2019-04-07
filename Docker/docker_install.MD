@@ -1,4 +1,6 @@
-## Docker CE installation and verification
+# Docker Tutorials 
+
+## 1. Docker CE installation and verification
 
 #### 1. Firs step: remove existing docker and related technologies
 
@@ -27,4 +29,17 @@ sudo yum remove docker \
   
     
 
-#### 5. Verify that the installation is correct and funcitonal
+#### 5. start and enable for self stat after reboot 
+
+#### 6. Verify that the installation is correct and funcitonal
+
+#### 7. Stop Docker Daemon 
+systemsctl stop docker
+
+## 2. Some docker Commands
+
+## 3. Dockerfile Commands
+## 4. Docker image command
+## 5. Docker cotaniner commands
+## 4. Docker network command
+## 4. Docker  command
