@@ -58,3 +58,7 @@ https://www.quora.com/What-is-the-service-discovery-in-Kubernetes
 
 ## Learn k8s in 3 hours
 https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
+
+
+## very good repo
+https://github.com/rhoar-enablement/wildfly-swarm
