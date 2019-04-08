@@ -40,10 +40,10 @@ INFO[0136] Replica ID is set to: cde64988aee8
 INFO[0136] You can use flag '--existing-replica-id cde64988aee8' when joining other replicas to your Docker Trusted Registry Cluster
 
 
-## Login to DTR console with https://dtrhostname 
+#### Login to DTR console with https://dtrhostname 
 
 
-## logging to drt for pushing images
+#### logging to dtr from command prompt for pushing images
 [root@node1 ~]# docker login https://node1
 Username: admin
 Password:
