@@ -32,17 +32,7 @@ Login to ucp with https://ucphost:443
 
 Instaling DTR
 =============
-docker run -it --rm docker/dtr install   --dtr-external-url https://node1 --ucp-node node1 --ucp-username admin   --ucp-url https://manager --ucp-insecure-tls 
-
-
-[root@manager ~]# docker service ls \
-ID                  NAME                MODE                REPLICAS            IMAGE                        PORTS \
-5am8qqxducvk        ucp-agent           global              2/2                 docker/ucp-agent:3.1.5 \
-wqg42a3gn668        ucp-agent-win       global              0/0                 docker/ucp-agent-win:3.1.5 \
-gtl6c812vc89        ucp-auth-api        global              1/1                 docker/ucp-auth:3.1.5 \
-xznj4y2130tj        ucp-auth-worker     global              1/1                 docker/ucp-auth:3.1.5 \
-yopqos82immj        web1                replicated          2/2                 nginx:latest                 *:80->80/tcp
-
+docker run -it --rm docker/dtr install --dtr-external-url https://node1 --ucp-node node1 --ucp-username admin --ucp-url https://manager --ucp-insecure-tls 
 
 If you these lines, your installation is successful
 
@@ -76,4 +66,12 @@ overall progress: 2 out of 2 tasks
 2/2: running   [==================================================>]
 verify: Service converged
 
+#### verify the service is created 
 
+[root@manager ~]# docker service ls \
+ID                  NAME                MODE                REPLICAS            IMAGE                        PORTS \
+5am8qqxducvk        ucp-agent           global              2/2                 docker/ucp-agent:3.1.5 \
+wqg42a3gn668        ucp-agent-win       global              0/0                 docker/ucp-agent-win:3.1.5 \
+gtl6c812vc89        ucp-auth-api        global              1/1                 docker/ucp-auth:3.1.5 \
+xznj4y2130tj        ucp-auth-worker     global              1/1                 docker/ucp-auth:3.1.5 \
+yopqos82immj        web1                replicated          2/2                 nginx:latest                 *:80->80/tcp
