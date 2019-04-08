@@ -54,3 +54,8 @@ https://docs.docker.com/engine/reference/commandline/login/#credentials-store
 
 Login Succeeded
 
+
+
+## deploy/create a nginx service
+ docker service create --name web1 --publish published=80,target=80 --replicas 2 nginx
+  
