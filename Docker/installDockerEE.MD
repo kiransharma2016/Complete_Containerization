@@ -28,6 +28,8 @@ Test \
 =====\
 wget https://dockerhost ip:443 --no-check-certificate 
 
+Login to ucp with https://ucphost:443
+
 Instaling DTR
 =============
 docker run -it --rm docker/dtr install   --dtr-external-url https://node1 --ucp-node node1 --ucp-username admin   --ucp-url https://manager --ucp-insecure-tls 
@@ -37,4 +39,7 @@ If you these lines, your installation is successful
 
 INFO[0136] Replica ID is set to: cde64988aee8
 INFO[0136] You can use flag '--existing-replica-id cde64988aee8' when joining other replicas to your Docker Trusted Registry Cluster
+
+
+## Login to DTR console with https://dtrhostname 
 
