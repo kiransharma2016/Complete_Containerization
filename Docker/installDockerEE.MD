@@ -59,3 +59,12 @@ Login Succeeded
 ## deploy/create a nginx service
  docker service create --name web1 --publish published=80,target=80 --replicas 2 nginx
   
+Result
+[root@manager ~]# docker service create --name web1 --publish published=80,target=80 --replicas 2 nginx
+yopqos82immjunm4f07sm307o
+overall progress: 2 out of 2 tasks
+1/2: running   [==================================================>]
+2/2: running   [==================================================>]
+verify: Service converged
+
+
