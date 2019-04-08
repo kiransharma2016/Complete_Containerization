@@ -43,3 +43,14 @@ INFO[0136] You can use flag '--existing-replica-id cde64988aee8' when joining ot
 
 ## Login to DTR console with https://dtrhostname 
 
+
+## logging to drt for pushing images
+[root@node1 ~]# docker login https://node1
+Username: admin
+Password:
+WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+
