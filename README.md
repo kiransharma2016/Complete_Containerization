@@ -1,6 +1,9 @@
 ## Containerization
 This repo contains all about technologies related to containerization eg docker, docker compose, swarm, kubernetes, helm, etcd, ansible ( used for provisioning) etc
 
+## what problem does docker solve? 
+https://developer.ibm.com/dwblog/2016/what-is-docker-containers/
+
 #### introduction to container and Docker
 https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/container-docker-introduction/
 
