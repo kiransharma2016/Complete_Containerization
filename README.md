@@ -9,6 +9,9 @@ https://docker-k8s-lab.readthedocs.io/en/latest/docker/docker-engine.html
 ## what problem does docker solve? 
 https://developer.ibm.com/dwblog/2016/what-is-docker-containers/
 
+## demystify container
+https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1
+
 #### introduction to container and Docker
 https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/container-docker-introduction/
 
