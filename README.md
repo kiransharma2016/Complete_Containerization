@@ -21,6 +21,8 @@ https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/cont
 #### A Practical Introduction to Container Terminology
 https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/
 
+## container network and routing mesh
+https://medium.com/devopsion/solving-the-routing-mess-for-services-in-docker-73492c37b335
 
 #### Troubleshoot Kubernetes Deployments
 https://docs.bitnami.com/kubernetes/how-to/troubleshoot-kubernetes-deployments/
