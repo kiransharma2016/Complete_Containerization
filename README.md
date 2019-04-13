@@ -3,12 +3,11 @@ This repo contains all about technologies related to containerization eg docker,
 
 ## what is Linux Container 
 https://opensource.com/resources/what-are-linux-containers \
+https://www.linuxjournal.com/content/everything-you-need-know-about-linux-containers-part-i-linux-control-groups-and-process \
 https://www.linuxjournal.com/content/everything-you-need-know-about-linux-containers-part-ii-working-linux-containers-lxc \
 https://docker-k8s-lab.readthedocs.io/en/latest/docker/docker-engine.html
 
 ## understanding LInux container 
-https://www.linuxjournal.com/content/everything-you-need-know-about-linux-containers-part-i-linux-control-groups-and-process
-
 ## what problem does docker solve? 
 https://developer.ibm.com/dwblog/2016/what-is-docker-containers/
 
