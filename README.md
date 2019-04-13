@@ -3,7 +3,7 @@ This repo contains all about technologies related to containerization eg docker,
 
 ## what is Linux Container 
 https://opensource.com/resources/what-are-linux-containers \
-https://www.linuxjournal.com/content/everything-you-need-know-about-linux-containers-part-ii-working-linux-containers-lxc
+https://www.linuxjournal.com/content/everything-you-need-know-about-linux-containers-part-ii-working-linux-containers-lxc \
 https://docker-k8s-lab.readthedocs.io/en/latest/docker/docker-engine.html
 
 ## what problem does docker solve? 
