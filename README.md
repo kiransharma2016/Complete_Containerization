@@ -72,4 +72,5 @@ https://www.youtube.com/watch?v=8E9PMT9sp9M
 
 ## Docker training 
 #### play with docker 
-https://docker-curriculum.com/
+https://docker-curriculum.com/ \
+https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/
