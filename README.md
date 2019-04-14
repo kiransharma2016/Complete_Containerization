@@ -32,10 +32,20 @@ https://docs.bitnami.com/kubernetes/how-to/troubleshoot-kubernetes-deployments/
 https://github.com/kubernetes-sigs/kubespray/blob/master/docs/comparisons.md
 
 #### Docker-compose
+https://medium.com/rate-engineering/using-docker-containers-to-run-a-distributed-application-locally-eeabd360bca3
 #### Docker Swarm 
 
 #### Kubernetes
 #### apache mesos 
+
+
+## microservices
+https://www.youtube.com/watch?v=9OJFyHc2FY0
+
+https://github.com/jenkinsci/kubernetes-pipeline-plugin/blob/master/kubernetes-steps/readme.md 
+
+
+https://www.youtube.com/watch?v=9OJFyHc2FY0
 
 
 ## CICD and Container
@@ -54,13 +64,6 @@ https://www.twistlock.com/2018/07/24/jenkins-pipeline-kubernetes-building-contai
 
 
 
-## microservices
-https://www.youtube.com/watch?v=9OJFyHc2FY0
-
-https://github.com/jenkinsci/kubernetes-pipeline-plugin/blob/master/kubernetes-steps/readme.md 
-
-
-https://www.youtube.com/watch?v=9OJFyHc2FY0
 
 ## misc 
 http://www.googlinux.com/
