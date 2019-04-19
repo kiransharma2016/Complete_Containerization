@@ -6,8 +6,8 @@ https://shekhargulati.com/2019/02/02/the-kubernetes-guide-part-1-learn-kubernete
 https://www.youtube.com/watch?v=ZpbXSdzp_vo
 
 ## kubernetes 101
-https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
-
+https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16 \
+https://www.edureka.co/blog/kubernetes-tutorial/?utm_source=lms&utm_medium=kubernetes&utm_campaign=kubernetes-tutorial-010219
 ## Imperative /Declarative with kubectl
 https://medium.com/bitnami-perspectives/imperative-declarative-and-a-few-kubectl-tricks-9d6deabdde
 
