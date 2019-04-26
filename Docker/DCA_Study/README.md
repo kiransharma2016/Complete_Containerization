@@ -36,6 +36,7 @@ https://s3.amazonaws.com/aws-quickstart/quickstart-docker/doc/docker-enterprise-
 ## Docker Swarm
 The DCA need knowledge of docker Swarm
 
+http://www.traveldiaries4u.com/authorsCollections/fullCollections/softwareCollections/dockerUCPBackup
 #### Explore swarm mode CLI commands
 
 swarm init \
