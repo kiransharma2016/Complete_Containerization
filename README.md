@@ -78,5 +78,6 @@ https://docker-curriculum.com/ \
 https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/
 
 
-#### ####################################################################
-https://www.youtube.com/watch?v=N0hSn5EwW8w
+#### #######################MISC ############################################
+https://www.youtube.com/watch?v=N0hSn5EwW8w \
+https://www.youtube.com/watch?v=cLT7eUWKZpg
