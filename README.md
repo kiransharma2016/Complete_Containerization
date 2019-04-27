@@ -77,7 +77,7 @@ https://www.youtube.com/watch?v=8E9PMT9sp9M
 https://docker-curriculum.com/ \
 https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/
 
-
-#### #######################MISC ############################################
+## Podman ############################################
 https://www.youtube.com/watch?v=N0hSn5EwW8w \
-https://www.youtube.com/watch?v=cLT7eUWKZpg
+https://www.youtube.com/watch?v=cLT7eUWKZpg \
+https://developers.redhat.com/blog/2018/11/29/managing-containerized-system-services-with-podman/
