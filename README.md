@@ -92,3 +92,7 @@ https://medium.com/@OPTASY.com/should-i-use-docker-in-production-environment-is-
 
 ## swarm tutorials
 https://takacsmark.com/docker-swarm-tutorial-for-beginners/
+
+
+## containerizating 
+https://www.cloudreach.com/blog/containerize-this-php-apache-mysql-within-docker-containers/
