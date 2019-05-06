@@ -95,4 +95,6 @@ https://takacsmark.com/docker-swarm-tutorial-for-beginners/
 
 
 ## containerizating 
-https://www.cloudreach.com/blog/containerize-this-php-apache-mysql-within-docker-containers/
+https://www.cloudreach.com/blog/containerize-this-php-apache-mysql-within-docker-containers/ \
+
+https://developer.ibm.com/solutions/container-orchestration-and-deployment/?cm_mmc=Search_Google-_-Developer_IBM+Developer-_-WW_NA-_-%2Bkubernetes%20%2Bdeployment_b&cm_mmca1=000019RS&cm_mmca2=10004796&cm_mmca7=9007808&cm_mmca8=aud-396679157191:kwd-315602758515&cm_mmca9=_k_CjwKCAjwk7rmBRAaEiwAhDGhxA_5ymBovr2OxpVRbxILmonpJzZQ3PU0DYzLsEpLSWvyZ5YXBPyYXRoCo1AQAvD_BwE_k_&cm_mmca10=301140133415&cm_mmca11=b&gclid=CjwKCAjwk7rmBRAaEiwAhDGhxA_5ymBovr2OxpVRbxILmonpJzZQ3PU0DYzLsEpLSWvyZ5YXBPyYXRoCo1AQAvD_BwE
