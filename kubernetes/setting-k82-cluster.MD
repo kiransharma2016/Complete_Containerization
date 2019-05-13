@@ -5,3 +5,10 @@ kubectl delete node <node name> \
 Then, on the node being removed, reset all kubeadm installed state: 
 
 kubeadm reset
+
+
+## checking the pod status
+kubectl -n <namespace-name> describe pod <pod name>
+
+kubectl -n <namespace-name> logs -p  <pod name> 
+  
