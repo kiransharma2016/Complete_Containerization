@@ -1,11 +1,12 @@
-## hoq can we do unset the cluster and node and delete
+## #Hoq can we do unset the cluster and node and delete
 
 kubectl drain <node name> --delete-local-data --force --ignore-daemonsets \
 kubectl delete node <node name> \
 Then, on the node being removed, reset all kubeadm installed state: 
 
-kubeadm reset
+#### kubeadm reset
 
+#### kubectl cluster-info
 
 ## checking the pod status
 kubectl -n <namespace-name> describe pod <pod name>
@@ -13,4 +14,4 @@ kubectl -n <namespace-name> describe pod <pod name>
 kubectl -n <namespace-name> logs -p  <pod name> 
   
 ## deployment example
-https://developer.ibm.com/tutorials/scalable-python-app-with-kubernetes/
+#### #https://developer.ibm.com/tutorials/scalable-python-app-with-kubernetes/
