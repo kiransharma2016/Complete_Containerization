@@ -12,3 +12,5 @@ kubectl -n <namespace-name> describe pod <pod name>
 
 kubectl -n <namespace-name> logs -p  <pod name> 
   
+## deployment example
+https://developer.ibm.com/tutorials/scalable-python-app-with-kubernetes/
