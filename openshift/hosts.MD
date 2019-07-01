@@ -1,4 +1,4 @@
-## hostfile -- you  can see exact content in raw mode. plese copy from raw mode if you are copyin gthe only hostfile
+## hostfile -- you  can see exact content in raw mode. plese copy from raw mode if you are copyin the only hostfile
 
 
 [OSEv3:children]
