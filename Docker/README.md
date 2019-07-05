@@ -67,3 +67,7 @@ https://blog.flux7.com/game-developer-pairs-aws-docker-and-kubernetes-for-scalab
 
 ## Docker Cheat Sheet
 http://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf
+
+## tutorials
+http://yallalabs.com/devops/docker-tutorial-series-part-2-how-to-install-docker-ce-centos-ubuntu/
+
