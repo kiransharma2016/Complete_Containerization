@@ -71,3 +71,6 @@ http://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/i
 ## tutorials
 http://yallalabs.com/devops/docker-tutorial-series-part-2-how-to-install-docker-ce-centos-ubuntu/
 
+
+## create a smaller docker Images
+https://medium.com/@gdiener/how-to-build-a-smaller-docker-image-76779e18d48a
