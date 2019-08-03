@@ -1,10 +1,10 @@
-#### ##one of the best container github resources. It has a lot of slides and videos
+#### #1.#One of the best container github resources. It has a lot of slides and videos
 
 https://container.training/
 
-#### ##Another good resoruces
+#### #2#Another good resoruces
 https://github.com/ramitsurana/awesome-kubernetes#configuration
 
-#### ##3 hours good video on kubernetes
+#### #3.#3 hours good video on kubernetes
 https://www.youtube.com/watch?v=ZpbXSdzp_vo&t=147s
 
