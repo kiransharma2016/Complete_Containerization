@@ -8,3 +8,6 @@ https://github.com/ramitsurana/awesome-kubernetes#configuration
 #### #3.#3 hours good video on kubernetes
 https://www.youtube.com/watch?v=ZpbXSdzp_vo&t=147s
 
+
+#### kubernetes services
+https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d
