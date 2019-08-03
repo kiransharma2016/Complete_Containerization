@@ -18,4 +18,5 @@ https://medium.com/faun/how-to-pass-certified-kubernetes-administrator-cka-exam-
 
 ## #1.# Network
 https://www.youtube.com/watch?v=BxDnv7MpJ0I \
-https://www.youtube.com/watch?v=GXq3FS8M_kw
+https://www.youtube.com/watch?v=GXq3FS8M_kw \
+https://www.aquasec.com/wiki/display/containers/Docker+Networking+101
