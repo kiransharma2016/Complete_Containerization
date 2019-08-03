@@ -14,3 +14,8 @@ https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ing
 
 #### #.5# Passing CKA
 https://medium.com/faun/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-att
+
+
+## #1.# Network
+https://www.youtube.com/watch?v=BxDnv7MpJ0I \
+https://www.youtube.com/watch?v=GXq3FS8M_kw
