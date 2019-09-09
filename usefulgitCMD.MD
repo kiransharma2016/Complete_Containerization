@@ -9,3 +9,5 @@ touch directoryname/.empty_file
 
 Please rem, the .empty_file is a file not a directory. 
 
+#### other useful 
+http://sysadvent.blogspot.com/2013/12/day-6-ansible-infrastructure-management.html
